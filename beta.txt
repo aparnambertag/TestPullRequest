@@ -1,1 +1,2 @@
 Adding new file in PR-branch
+Line2: Adding new file in PR-branch
