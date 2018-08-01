@@ -1,8 +1,8 @@
 Adding line1
 Line 2
-
+The update to the file is not committing
 Line4
 Line5
-new-branch
+this line got added while resolving the conflict: new-branch
 LIne6
-master
+this as well: master
